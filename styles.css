@@ -1,0 +1,4 @@
+.the_stack{
+    display: flex;
+    flex-direction: row;
+}
