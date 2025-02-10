@@ -14,6 +14,7 @@ html {
     justify-content: space-between;
     padding: 10px;
     background-color: #223A5E;
+    margin-bottom: 5px;
 }
 .contact-me {
     height: 40px;
@@ -29,7 +30,20 @@ html {
     border: 2px solid seashell;
     padding: 5px;
 }
+.hero{
+    background-color: #223A5E;
+    display: flex;
+    flex-direction: row;
+    padding: 30px;
+    justify-content: space-evenly;    
+}
+.portrait {
+    border-radius: 25px;
+    border: 10px;
+    border-color: seashell;
+    height: 600px;
+}
 
-.qualifications {
+.contacts {
     background-color: #899499;
 }
