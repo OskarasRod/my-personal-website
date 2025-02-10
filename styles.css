@@ -30,6 +30,9 @@ html {
     border: 2px solid seashell;
     padding: 5px;
 }
+.hero-stack{
+    color: seashell;
+}
 .hero{
     background-color: #223A5E;
     display: flex;
@@ -39,9 +42,11 @@ html {
 }
 .portrait {
     border-radius: 25px;
-    border: 10px;
+    border: 3px;
     border-color: seashell;
+    border-style: solid;
     height: 600px;
+
 }
 
 .contacts {
